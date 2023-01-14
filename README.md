@@ -78,7 +78,6 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achrafoo2018&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=achrafoo2018&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="achrafoo2018"/>
 <br>
 
 <a href="https://github.com/achrafoo2018/">
