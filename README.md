@@ -11,7 +11,7 @@
 	
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -78,14 +78,12 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achrafoo2018&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=achrafoo2018&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="achrafoo2018"/>
 <br>
 
 <a href="https://github.com/achrafoo2018/">
   <img src="https://github-readme-stats-gtxf.vercel.app/api?username=achrafoo2018&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <br>
-  <img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=achrafoo2018&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
 </a>
 </div>
 
@@ -97,7 +95,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
