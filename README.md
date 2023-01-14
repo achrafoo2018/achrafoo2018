@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, I'm Achraf Ben Soltane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello there..&hearts;++;Software+Engineering+Student,;Competitive+Programmer,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..;Software+Engineering+Student,;Competitive+Programmer,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -17,10 +17,10 @@
 
 <br>
 
-- Currently learning new competitive programming topics.
+- :computer:	 Currently learning new competitive programming topics.
 - 👯 looking forward to collaborate on open source projects.
 - 🚩 Interested in Full Stack Machine Learning Application development.
-- Outside tech, 📖 I love to read books, 🎵 listen to music, and swimming.
+- Outside tech, 📖 I love to read books, 🎵 listen to music, and :tv:	watch movies.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -36,6 +36,8 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 <br>   
@@ -81,8 +83,8 @@
 
 <br>
 <a href="https://github.com/achrafoo2018/">
-  <img src="https://github-readme-stats.vercel.app/api?username=achrafoo2018&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achrafoo2018&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats-gtxf.vercel.app/api?username=achrafoo2018&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=achrafoo2018&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
 </div>
