@@ -8,8 +8,6 @@
 
 <br>
 
-
-
 	
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
@@ -82,6 +80,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achrafoo2018&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
+
 <a href="https://github.com/achrafoo2018/">
   <img src="https://github-readme-stats-gtxf.vercel.app/api?username=achrafoo2018&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=achrafoo2018&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
@@ -95,7 +94,6 @@
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -115,7 +113,7 @@
 
 <br>
 
-<li>
+<li
 <a href="mailto:achrafb.s2015@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: achrafb.s2015@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
